@@ -58,22 +58,26 @@ Research Paper
 ## Contributing
 
 We welcome contributions to this project! Here’s how you can get involved:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
 
-    Fork the repository.
+    ```bash
+    git checkout -b feature_branch
+    ```
 
-    Create a new branch for your feature or bug fix:
+3. Make your changes and commit them:
 
-git checkout -b feature_branch
+    ```bash
+    git commit -m "Description of changes"
+    ```
 
-Make your changes and commit them:
+4. Push to the branch:
 
-git commit -m "Description of changes"
+    ```bash
+    git push origin feature_branch
+    ```
 
-Push to your branch:
-
-git push origin feature_branch
-
-Open a pull request and describe your changes.
+5. Open a pull request and describe your changes.
 
 ## Contact
 
